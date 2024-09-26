@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "875654899297",
+    "project_id": "lab3app-df2f7",
+    "storage_bucket": "lab3app-df2f7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:875654899297:android:03ed7679f02635d7f66c20",
+        "android_client_info": {
+          "package_name": "com.appspa.lab3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQDOGDSRQ5qqSqYYKQ4dH0Dg7VHL1RBV8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:875654899297:android:83d9246f1882792af66c20",
+        "android_client_info": {
+          "package_name": "com.lab5"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQDOGDSRQ5qqSqYYKQ4dH0Dg7VHL1RBV8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
